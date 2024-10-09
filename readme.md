@@ -50,7 +50,7 @@ Currently implemented functionality for remote control (or broadcasting) in loca
 
 1. Place TD Remote.tox in your project
 
-2. Select the network interface to which this device is connected - **Local address** parameter
+2. Select the network interface to which mobile device is connected - **Local address** parameter
 
 3. Select the required container and place in the **Panel COMP** parameter
 
@@ -64,7 +64,7 @@ Currently implemented functionality for remote control (or broadcasting) in loca
 
 > Swipe left from right side to open menu on panel page (in the app)
 
-> Text fields selection is possible only with **Mouse** control type (in the app)
+> Text fields text selection is possible only with **Mouse** control type (in the app)
 
 ## Parameters
 
