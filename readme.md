@@ -31,7 +31,7 @@ Currently implemented functionality for remote control (or broadcasting) in loca
 ## Downloads
 
 **TouchDesigner Component**
-> [TDRemote.tox](https://github.comiga-labs/TD-Remote-Tools/zipball/main) COMP
+>[TDRemote.tox](https://github.com/iga-labs/TD-Remote-Tools/releases/latest/download/TDRemote.tox) COMP
 
 
 **Android app** 
