@@ -46,6 +46,8 @@ Currently implemented functionality for remote control (or broadcasting) in loca
 
 ## How To Use
 
+**How to connect**
+
 1. Place TD Remote.tox in your project
 
 2. Select the network interface to which this device is connected - **Local address** parameter
@@ -56,6 +58,13 @@ Currently implemented functionality for remote control (or broadcasting) in loca
 
 > If you are using multiple **TDRemote COMP**s in the same project, make sure that the **Port** parameter is differentfor all instances
 
+---
+
+**Usage moments**
+
+> Swipe left from right side to open menu on panel page (in the app)
+
+> Text fields selection is possible only with **Mouse** control type (in the app)
 
 ## Parameters
 
