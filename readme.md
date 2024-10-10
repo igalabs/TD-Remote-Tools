@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#description">Description</a> •
-  <a href="#download">Downloads</a> •
+  <a href="#downloads">Downloads</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#parameters">Parameters</a> •
   <a href="#socials">Socials</a> •
