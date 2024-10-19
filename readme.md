@@ -73,7 +73,7 @@ Currently implemented functionality for remote control (or broadcasting) of the 
   - **Machine name** - `read only` Сomputer name, displayed on the panel list
   - **Panel name** - `read only` Same as **Panel COMP**
   - **Status** - `read only` Current connection/error status
-* **Panel COMP** - `COMP` Container selected for control
+* **Panel COMP** - `COMP` Container selected that is going to be used for control
 * **Audio CHOP** - `CHOP` Broadcast audio
 
 
