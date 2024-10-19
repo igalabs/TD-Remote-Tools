@@ -25,8 +25,7 @@
 
 All-in-one tool (planned) for handling/controlling with TouchDesigner
 
-Currently implemented functionality for remote control (or broadcasting) in local network of the container and its settings
-
+Currently implemented functionality for remote control (or broadcasting) of the container and its settings in local network 
 
 ## Downloads
 
