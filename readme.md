@@ -63,7 +63,7 @@ Currently implemented functionality for remote control (or broadcasting) of the 
 
 > Swipe left from right side to open menu on panel page (in the app)
 
-> Text selection in fields text is possible only with **Mouse** control type (in the app)
+> Text selection in text fields is possible only with **Mouse** control type (in the app)
 
 ## Parameters
 
