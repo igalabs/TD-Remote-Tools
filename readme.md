@@ -83,11 +83,12 @@ Currently implemented functionality for remote control (or broadcasting) of the 
 - [x] Container resize
 - [x] Keyboard support (in test)
 - [ ] Different broadcast protocols/quality
-- [ ] Multi-language Support
+- [ ] Multi-language
     - [x] English
+    - [ ] German
     - [ ] Russian
 - [ ] Gyroscope, accelerometer data sharing
-- [ ] Camera sharing
+- [ ] Camera broadcasting
 
 
 ## Socials
