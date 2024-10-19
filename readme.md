@@ -70,7 +70,7 @@ Currently implemented functionality for remote control (or broadcasting) of the 
 * **Local address** - `StrMenu` Network interface to which mobile device is connected
 * **Port** - `Int` Connection port, must be unique for each instance 
   - **Local ip** - `read only` Same as **Local address**
-  - **Machine name** - `read only` Сomputer name, displayed in the panel list
+  - **Machine name** - `read only` Сomputer name, displayed on the panel list
   - **Panel name** - `read only` Same as **Panel COMP**
   - **Status** - `read only` Current connection/error status
 * **Panel COMP** - `COMP` Container selected for control
