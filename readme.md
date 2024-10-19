@@ -53,7 +53,7 @@ Currently implemented functionality for remote control (or broadcasting) of the 
 
 3. Select the required container and place in the **Panel COMP** parameter
 
-4. Click on the container that appears in the list of panels in the mobile application to connect
+4. Click on the container that appears on the list of panels in the mobile application to connect
 
 > If you are using multiple **TDRemote COMP**s in the same project, make sure that the **Port** parameter is differentfor all instances
 
