@@ -25,8 +25,7 @@
 
 All-in-one tool (planned) for handling/controlling with TouchDesigner
 
-Currently implemented functionality for remote control (or broadcasting) in local network of the container and its settings
-
+Currently implemented functionality for remote control (or broadcasting) of the container and its settings in local network 
 
 ## Downloads
 
@@ -54,7 +53,7 @@ Currently implemented functionality for remote control (or broadcasting) in loca
 
 3. Select the required container and place in the **Panel COMP** parameter
 
-4. Click on the container that appears in the list of panels in the mobile application to connect
+4. Click on the container that appears on the list of panels in the mobile application to connect
 
 > If you are using multiple **TDRemote COMP**s in the same project, make sure that the **Port** parameter is differentfor all instances
 
@@ -64,17 +63,17 @@ Currently implemented functionality for remote control (or broadcasting) in loca
 
 > Swipe left from right side to open menu on panel page (in the app)
 
-> Text fields text selection is possible only with **Mouse** control type (in the app)
+> Text selection in text fields is possible only with **Mouse** control type (in the app)
 
 ## Parameters
 
 * **Local address** - `StrMenu` Network interface to which mobile device is connected
 * **Port** - `Int` Connection port, must be unique for each instance 
   - **Local ip** - `read only` Same as **Local address**
-  - **Machine name** - `read only` Сomputer name, displayed in the panel list
+  - **Machine name** - `read only` Сomputer name, displayed on the panel list
   - **Panel name** - `read only` Same as **Panel COMP**
   - **Status** - `read only` Current connection/error status
-* **Panel COMP** - `COMP` Container selected for control
+* **Panel COMP** - `COMP` Container selected that is going to be used for control
 * **Audio CHOP** - `CHOP` Broadcast audio
 
 
@@ -86,11 +85,12 @@ Currently implemented functionality for remote control (or broadcasting) in loca
 - [x] Scannable codes data sharing (QR, Barcodes, Aztec, Datamatrix, etc.)
 - [ ] Camera sharing
 - [ ] Different broadcast protocols/quality
-- [ ] Multi-language Support
+- [ ] Multi-language
     - [x] English
+    - [ ] German
     - [ ] Russian
 - [ ] Gyroscope, accelerometer data sharing
-- [ ] Camera sharing
+- [ ] Camera broadcasting
 
 
 ## Socials
