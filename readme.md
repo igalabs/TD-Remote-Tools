@@ -83,6 +83,8 @@ Currently implemented functionality for remote control (or broadcasting) in loca
 - [x] Container remote control
 - [x] Container resize
 - [x] Keyboard support (in test)
+- [x] Scannable codes data sharing (QR, Barcodes, Aztec, Datamatrix, etc.)
+- [ ] Camera sharing
 - [ ] Different broadcast protocols/quality
 - [ ] Multi-language Support
     - [x] English
