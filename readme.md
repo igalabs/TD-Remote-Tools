@@ -15,6 +15,7 @@
   <a href="#downloads">Downloads</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#parameters">Parameters</a> •
+  <a href="#roadmap">Roadmap</a> •
   <a href="#support">Socials</a> •
   <a href="#contributions">Support</a> •
   <a href="#license">License</a>
