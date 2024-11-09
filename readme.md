@@ -1,7 +1,11 @@
 
 <h1 align="center">
-  <br>TouchDesigner Remote Tools<br>
+  <br>Remote Tools for TouchDesigner<br>
 </h1>
+
+<div id="header" align="center">
+  <img src="https://igalabs.net/assets/assets/images/tdremotetools/appicon.png" width="120"/>
+</div>
 
 <h4 align="center">Tools for working with <a href="https://derivative.ca/" target="_blank">TouchDesigner</a> on mobile devices</h4>
 
@@ -69,6 +73,10 @@ Currently implemented functionality for remote control (or broadcasting) of the 
 > Swipe left from right side to open menu on panel page (in the app)
 
 > Text selection in text fields is possible only with **Mouse** control type (in the app)
+
+> Make sure that TouchDesigner computer and mobile device are not using VPN 
+
+
 
 ## Parameters
 
