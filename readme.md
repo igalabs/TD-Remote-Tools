@@ -96,6 +96,7 @@ Currently implemented functionality for remote control (or broadcasting) of the 
 - [x] Container resize
 - [x] Keyboard support (in test)
 - [x] Scannable codes data sharing (QR, Barcodes, Aztec, Datamatrix, etc.)
+- [x] InApp Kiosk mode
 - [ ] Camera sharing
 - [ ] Different broadcast protocols/quality
 - [ ] Multi-language
@@ -104,6 +105,7 @@ Currently implemented functionality for remote control (or broadcasting) of the 
     - [ ] Russian
 - [ ] Gyroscope, accelerometer data sharing
 - [ ] Camera broadcasting
+- [ ] Connection to the last panel at startup
 
 
 ## Support
