@@ -88,6 +88,10 @@ Currently implemented functionality for remote control (or broadcasting) of the 
   - **Status** - `read only` Current connection/error status
 * **Panel COMP** - `COMP` Container selected that is going to be used for control
 * **Audio CHOP** - `CHOP` Broadcast audio
+* **Reset Sensors on Disconnect** - `Toggle` Resets all sensor values when disconnected from the panel
+* **Reset Sensors** - `Pulse` Resets all sensor values
+* **Scannable codes Max Lines** - `int` Maximum number of rows in the table of scanned codes
+* **Clear Scannable codes** - `CHOP` Clear the table of scanned codes
 
 
 ## Roadmap
@@ -97,15 +101,14 @@ Currently implemented functionality for remote control (or broadcasting) of the 
 - [x] Keyboard support (in test)
 - [x] Scannable codes data sharing (QR, Barcodes, Aztec, Datamatrix, etc.)
 - [x] InApp Kiosk mode
-- [ ] Camera sharing
+- [x] Sending data from device sensors
+- [ ] Camera broadcasting
 - [ ] Different broadcast protocols/quality
+- [ ] Connection to the last panel at startup
 - [ ] Multi-language
     - [x] English
     - [ ] German
     - [ ] Russian
-- [ ] Gyroscope, accelerometer data sharing
-- [ ] Camera broadcasting
-- [ ] Connection to the last panel at startup
 
 
 ## Support
