@@ -102,6 +102,7 @@ Currently implemented functionality for remote control (or broadcasting) of the 
 - [x] Scannable codes data sharing (QR, Barcodes, Aztec, Datamatrix, etc.)
 - [x] InApp Kiosk mode
 - [x] Sending data from device sensors
+- [x] Onboarding
 - [ ] Camera broadcasting
 - [ ] Different broadcast protocols/quality
 - [ ] Connection to the last panel at startup
