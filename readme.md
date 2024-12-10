@@ -3,8 +3,8 @@
   <br>Remote Tools for TouchDesigner<br>
 </h1>
 
-<div id="header" align="center">
-  <img src="https://igalabs.net/assets/assets/images/tdremotetools/appicon.png" height="auto" width="120" style="border-radius:25%"/>
+<div id="header" align="center"><kbd>
+  <img src="https://igalabs.net/assets/assets/images/tdremotetools/appicon.png" height="auto" width="120" style="border: 3px solid red"/></kbd>
 </div>
 
 <h4 align="center">Tools for working with <a href="https://derivative.ca/" target="_blank">TouchDesigner</a> on mobile devices</h4>
