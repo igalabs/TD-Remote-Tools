@@ -4,7 +4,7 @@
 </h1>
 
 <div id="header" align="center">
-  <img src="https://igalabs.net/assets/assets/images/tdremotetools/appicon.png" width="120" style="border-radius:25%"/>
+  <img src="https://igalabs.net/assets/assets/images/tdremotetools/appicon.png" height="auto" width="120" style="border-radius:25%"/>
 </div>
 
 <h4 align="center">Tools for working with <a href="https://derivative.ca/" target="_blank">TouchDesigner</a> on mobile devices</h4>
