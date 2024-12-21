@@ -12,8 +12,8 @@
 <h4 align="center">Tools for working with <a href="https://derivative.ca/" target="_blank">TouchDesigner</a> on mobile devices</h4>
 
 <p align="center">
-  <a href="https://github.com/iga-labs/TD-Remote-Tools/releases"><img src="https://img.shields.io/github/v/release/iga-labs/TD-Remote-Tools"></a>
-  <a href="https://github.com/iga-labs/TD-Remote-Tools/issues"><img src="https://img.shields.io/github/issues/iga-labs/TD-Remote-Tools"></a>  
+  <a href="https://github.com/igalabs/TD-Remote-Tools/releases"><img src="https://img.shields.io/github/v/release/igalabs/TD-Remote-Tools"></a>
+  <a href="https://github.com/igalabs/TD-Remote-Tools/issues"><img src="https://img.shields.io/github/issues/igalabs/TD-Remote-Tools"></a>  
 </p>
 
 <p align="center">
@@ -37,7 +37,7 @@ Currently implemented functionality for remote control (or broadcasting) of the 
 ## Downloads
 
 **TouchDesigner Component**
->[TDRemote.tox](https://github.com/iga-labs/TD-Remote-Tools/releases/latest/download/TDRemote.tox) COMP
+>[TDRemote.tox](https://github.com/igalabs/TD-Remote-Tools/releases/latest/download/TDRemote.tox) COMP
 
 
 **Android app** 
@@ -131,6 +131,6 @@ Direct mail: **support@igalabs.net**
 
 
 ## License
->You can check out the full license [here](https://github.com/iga-labs/TD-Remote-Tools/blob/main/LICENSE)
+>You can check out the full license [here](https://github.com/igalabs/TD-Remote-Tools/blob/main/LICENSE)
 
 This project is licensed under the terms of the **MIT** license
