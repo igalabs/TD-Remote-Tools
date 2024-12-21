@@ -4,9 +4,7 @@
 </h1>
 
 <div id="header" align="center">
-  <!-- <kbd> -->
-    <img src="https://igalabs.net/assets/assets/images/tdremotetools/appicon.png" height="120" width="120"/>
-  <!-- </kbd> -->
+  <img src="https://igalabs.net/assets/assets/images/tdremotetools/appicon.png" height="120" width="120"/>
 </div>
 
 <h4 align="center">Tools for working with <a href="https://derivative.ca/" target="_blank">TouchDesigner</a> on mobile devices</h4>
@@ -37,18 +35,15 @@ Currently implemented functionality for remote control (or broadcasting) of the 
 ## Downloads
 
 **TouchDesigner Component**
->[TDRemote.tox](https://github.com/igalabs/TD-Remote-Tools/releases/latest/download/TDRemote.tox) COMP
+
+<a href="https://github.com/igalabs/TD-Remote-Tools/releases/latest/download/TDRemote.tox"><img src="https://img.shields.io/badge/TDRemote.tox-36476a?style=for-the-badge&logo=GitHub&logoColor=white"></a>
 
 
 **Android app** 
-<!-- > **not yet released**, write directly to [me](https://t.me/confirmedancient) -->
 
-> **not yet released**, [ALPHA TEST](https://play.google.com/store/apps/details?id=com.igalabs.tdremotetools)
-
-<!-- <a href="https://play.google.com/store/apps/details?id=com.zhiga_stud.td_remote"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a> -->
+<a href="https://play.google.com/store/apps/details?id=com.igalabs.tdremotetools"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
 
  **iOS app**
-<!-- > **not yet released**, write directly to [me](https://t.me/confirmedancient) -->
 
 > **not yet released**, [ALPHA TEST](https://testflight.apple.com/join/BpYeSkk8)
 
@@ -119,7 +114,7 @@ Currently implemented functionality for remote control (or broadcasting) of the 
 Join our Telegram channel for quick communication and information about the project
 
 <a href="https://t.me/+dqmj1kbrBnU3ZGFi"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a href="https://www.youtube.com/@iga_labs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://www.youtube.com/@igalabs"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 
 Direct mail: **support@igalabs.net**
 
@@ -127,7 +122,9 @@ Direct mail: **support@igalabs.net**
 ## Сontributions
 
 <!-- <a href=""><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a> -->
-<a href="https://www.patreon.com/iga_labs"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
+<a href="https://www.patreon.com/igalabs"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
+<a href="https://ko-fi.com/igalabs"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+<a href="https://boosty.to/igalabs"><img src="https://img.shields.io/badge/Boosty-F15F2C?style=for-the-badge&logo=boosty&logoColor=white"></a>
 
 
 ## License
