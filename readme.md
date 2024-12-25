@@ -41,13 +41,13 @@ Currently implemented functionality for remote control (or broadcasting) of the 
 
 **Android app** 
 
-<a href="https://play.google.com/store/apps/details?id=com.igalabs.tdremotetools"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
+<a href="https://play.google.com/store/apps/details?id=com.igalabs.tdremotetools" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"></a>
 
  **iOS app**
 
 > **not yet released**, [ALPHA TEST](https://testflight.apple.com/join/BpYeSkk8)
 
-<!-- <a href="https://apps.apple.com/app/id6670328640"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"></a> -->
+<!-- <a href="https://apps.apple.com/app/id6670328640" target="_blank"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"></a> -->
 
 ## How To Use
 
