@@ -75,18 +75,28 @@ Currently implemented functionality for remote control (or broadcasting) of the 
 
 ## Parameters
 
+**Network**
 * **Local address** - `StrMenu` Network interface to which mobile device is connected
 * **Port** - `Int` Connection port, must be unique for each instance 
   - **Local ip** - `read only` Same as **Local address**
   - **Machine name** - `read only` Сomputer name, displayed on the panel list
   - **Panel name** - `read only` Same as **Panel COMP**
   - **Status** - `read only` Current connection/error status
+---
+**Sending data**
 * **Panel COMP** - `COMP` Container selected that is going to be used for control
 * **Audio CHOP** - `CHOP` Broadcast audio
+---
+**Incoming data**
+* **Multitouch Output** - `StrMenu` Raw Events or ID Table (same as in Multitouch In DAT operator)
+* **Multitouch Max Lines** - `int` Maximum number of rows in the table of multitouch input data
+* **Clear Multitouch** - `Pulse` Clear the table of multitouch input data
+* **Keyboard Max Lines** - `int` Maximum number of rows in the table of keyboard input data
+* **Clear keyboard** - `Pulse` Clear the table of keyboard input data
 * **Reset Sensors on Disconnect** - `Toggle` Resets all sensor values when disconnected from the panel
 * **Reset Sensors** - `Pulse` Resets all sensor values
 * **Scannable codes Max Lines** - `int` Maximum number of rows in the table of scanned codes
-* **Clear Scannable codes** - `CHOP` Clear the table of scanned codes
+* **Clear Scannable codes** - `Pulse` Clear the table of scanned codes
 
 
 ## Roadmap
