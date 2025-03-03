@@ -89,13 +89,13 @@ Currently implemented functionality for remote control (or broadcasting) of the 
 ---
 **Incoming data**
 * **Multitouch Output** - `StrMenu` Raw Events or ID Table (same as in Multitouch In DAT operator)
-* **Multitouch Max Lines** - `int` Maximum number of rows in the table of multitouch input data
+* **Multitouch Max Lines** - `Int` Maximum number of rows in the table of multitouch input data
 * **Clear Multitouch** - `Pulse` Clear the table of multitouch input data
-* **Keyboard Max Lines** - `int` Maximum number of rows in the table of keyboard input data
+* **Keyboard Max Lines** - `Int` Maximum number of rows in the table of keyboard input data
 * **Clear keyboard** - `Pulse` Clear the table of keyboard input data
 * **Reset Sensors on Disconnect** - `Toggle` Resets all sensor values when disconnected from the panel
 * **Reset Sensors** - `Pulse` Resets all sensor values
-* **Scannable codes Max Lines** - `int` Maximum number of rows in the table of scanned codes
+* **Scannable codes Max Lines** - `Int` Maximum number of rows in the table of scanned codes
 * **Clear Scannable codes** - `Pulse` Clear the table of scanned codes
 
 
